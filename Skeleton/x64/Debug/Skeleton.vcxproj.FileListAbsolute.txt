@@ -1,2 +1,0 @@
-C:\Users\tutu_\Desktop\Skeleton\x64\Debug\Skeleton.exe
-C:\Users\tutu_\Desktop\Skeleton\x64\Debug\Skeleton.pdb
